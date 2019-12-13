@@ -14,6 +14,7 @@ class View {
 
         if (!array_key_exists('title', $data)) {
             $data['title'] = 'Home';
+            $data['icon'] = 'home.png';
         }
 
         $ci->load->view('home/_partials/header', $data);
