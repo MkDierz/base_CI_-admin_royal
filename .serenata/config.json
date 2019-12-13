@@ -1,0 +1,11 @@
+{
+    "uris": [
+        "file:///home/dierz/html/base_CI_"
+    ],
+    "indexDatabaseUri": "file:///home/dierz/.cache/php-ide-serenata/index-6a9263404eec9bddaa60b391f59351ff.sqlite",
+    "phpVersion": 7.3,
+    "excludedPathExpressions": [],
+    "fileExtensions": [
+        "php"
+    ]
+}
