@@ -1,8 +1,8 @@
 <!-- partial:partials/_sidebar.html -->
-<nav class="sidebar sidebar-offcanvas" id="sidebar">
+<nav class="sidebar sidebar-offcanvas" id="sidebar" style="background:#BFE1CD;z-index:2;">
     <ul class="nav">
-        <li class="nav-item">
-            <a class="nav-link" href="index.html">
+        <li class="nav-item ">
+            <a class="nav-link " href="#">
                 <i class="ti-shield menu-icon"></i>
                 <span class="menu-title">Menu 1</span>
             </a>
