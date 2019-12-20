@@ -12,6 +12,6 @@ class Home extends CI_Controller{
     function index()
     {
         $this->view->home('v_home');
-    }
 
+    }
 }
